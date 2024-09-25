@@ -1,0 +1,5 @@
+#Anything containing the word "test"
+*test*
+
+#Input files
+*.txt
